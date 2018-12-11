@@ -1,0 +1,11 @@
+{
+  "name": "repository_2",
+  "version": "1.0.0",
+  "description": "esercizio fatto con frazzetto in facoltà.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Badredin_Jamjama",
+  "license": "MIT"
+}
